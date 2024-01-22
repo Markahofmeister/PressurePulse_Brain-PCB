@@ -1,0 +1,33 @@
+# ### Altium Files ###
+
+# Various Altium files
+Christmas-2023_Soundboard/*.PrjPCBStructure
+Christmas-2023_Soundboard/*.SchDocPreview
+Christmas-2023_Soundboard/*.PcbDocPreview
+Christmas-2023_Soundboard/__Previews
+Christmas-2023_Soundboard/*.PrjPcbStructure
+Christmas-2023_Soundboard/*.Dat
+Christmas-2023_Soundboard/*.REP
+Christmas-2023_Soundboard/*.TLT
+Christmas-2023_Soundboard/*.LOG
+Christmas-2023_Soundboard/*.log
+Christmas-2023_Soundboard/*.htm
+Christmas-2023_Soundboard/*.$$$
+
+#useless dirs
+Christmas-2023_Soundboard/Project Outputs
+Christmas-2023_Soundboard/Project Logs for Christmas-2023_Soundboard/
+Christmas-2023_Soundboard/Project Outputs for Christmas-2023_Soundboard/
+
+#History
+Christmas-2023_Soundboard/History/
+
+#Exports, but not manual ones
+Christmas-2023_Soundboard/exports/*
+Christmas-2023_Soundboard/!exports/manual
+
+#Python stuff
+Christmas-2023_Soundboard/scripts/__pycache__/
+Christmas-2023_Soundboard/*.bak
+Christmas-2023_Soundboard/*.dwl
+Christmas-2023_Soundboard/*.dwl2
