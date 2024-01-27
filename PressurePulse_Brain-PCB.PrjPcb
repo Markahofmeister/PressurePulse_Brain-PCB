@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=OSNSOHYA
 
 [Document3]
+DocumentPath=PressurePulse_Brain-PCB_Master.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DGCVYCVV
+
+[Document4]
 DocumentPath=1_PWR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NXBAIVJG
 
-[Document4]
+[Document5]
 DocumentPath=2_MCU-BLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELDHDPHQ
 
-[Document5]
+[Document6]
 DocumentPath=3_MCU-Proc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLBIINLD
 
-[Document6]
+[Document7]
 DocumentPath=4_Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,6 +167,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPIKWPVL
+
+[Document8]
+DocumentPath=5_OB-Connectors.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SXGYNXBI
 
 [Configuration1]
 Name=Sources
