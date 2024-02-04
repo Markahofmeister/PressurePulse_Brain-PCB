@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ELDHDPHQ
 
 [Document6]
-DocumentPath=3_MCU-Proc.SchDoc
+DocumentPath=3_SWD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XLBIINLD
+DocumentUniqueId=PYHPGRUX
 
 [Document7]
 DocumentPath=4_Amplifier.SchDoc
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UPIKWPVL
 
 [Document8]
-DocumentPath=5_OB-Connectors.SchDoc
+DocumentPath=5_SD-Socket.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -184,6 +184,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXGYNXBI
+
+[Document9]
+DocumentPath=USB-Socket.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QZYDMDET
 
 [Configuration1]
 Name=Sources
