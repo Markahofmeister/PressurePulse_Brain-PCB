@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DGCVYCVV
 
 [Document4]
-DocumentPath=1_PWR.SchDoc
+DocumentPath=1_PWR-Switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
