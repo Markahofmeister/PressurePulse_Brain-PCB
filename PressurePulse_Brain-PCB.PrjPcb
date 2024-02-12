@@ -118,6 +118,23 @@ GenerateClassCluster=0
 DocumentUniqueId=NXBAIVJG
 
 [Document5]
+DocumentPath=Fuel-Gauge.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EHBVKLMV
+
+[Document6]
 DocumentPath=LDO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IEBHRQQO
 
-[Document6]
+[Document7]
 DocumentPath=Boost.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AYGQZNNY
 
-[Document7]
+[Document8]
 DocumentPath=MCU-BLE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ELDHDPHQ
 
-[Document8]
+[Document9]
 DocumentPath=SWD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PYHPGRUX
 
-[Document9]
+[Document10]
 DocumentPath=Amplifier.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPIKWPVL
 
-[Document10]
+[Document11]
 DocumentPath=SD-Socket.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXGYNXBI
 
-[Document11]
+[Document12]
 DocumentPath=USB-Socket.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QZYDMDET
 
-[Document12]
+[Document13]
 DocumentPath=Pressure-Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PCJDPFLL
 
-[Document13]
+[Document14]
 DocumentPath=Flow-Sensor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
