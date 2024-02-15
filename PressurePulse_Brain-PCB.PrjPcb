@@ -1514,7 +1514,9 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=VDD|NetColor=clYellow
+Net1=NetName=+5|NetColor=$006E6EFF
+Net2=NetName=VBATT|NetColor=$000083FD
+Net3=NetName=VDD|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
