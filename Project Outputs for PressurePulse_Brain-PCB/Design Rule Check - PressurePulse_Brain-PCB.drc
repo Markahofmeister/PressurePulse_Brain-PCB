@@ -1,0 +1,309 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\marka\Spring-2024\Senior-Design\ece_1896\electrical\PressurePulse_Brain-PCB\PressurePulse_Brain-PCB.PcbDoc
+Date     : 2/20/2024
+Time     : 9:33:17 PM
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (InNet('+12')),(InNet('VCC'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Pad J5-1(99.241mm,74.407mm) on Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Pad J5-2(100.511mm,74.407mm) on Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Pad J5-3(99.241mm,73.137mm) on Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Pad J5-4(100.511mm,73.137mm) on Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Pad J5-5(99.241mm,71.866mm) on Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Pad J5-6(100.511mm,71.866mm) on Top Sig 
+   Violation between Clearance Constraint: (0.105mm < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Track (100.511mm,71.866mm)(100.654mm,71.866mm) on Top Sig 
+   Violation between Clearance Constraint: (0.008mm < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Track (100.511mm,73.137mm)(101.381mm,74.007mm) on Top Sig 
+   Violation between Clearance Constraint: (0.077mm < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Track (100.511mm,74.407mm)(100.511mm,74.511mm) on Top Sig 
+   Violation between Clearance Constraint: (0.008mm < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Track (98.206mm,74.172mm)(99.241mm,73.137mm) on Top Sig 
+   Violation between Clearance Constraint: (0.077mm < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Track (99.169mm,74.479mm)(99.241mm,74.407mm) on Top Sig 
+   Violation between Clearance Constraint: (0.028mm < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Track (99.241mm,71.764mm)(99.241mm,71.866mm) on Top Sig 
+   Violation between Clearance Constraint: (0.117mm < 0.152mm) Between Area Fill (98.776mm,72.654mm) (100.976mm,73.654mm) on Keep-Out Layer And Track (99.241mm,71.764mm)(99.75mm,71.255mm) on Top Sig 
+   Violation between Clearance Constraint: (0.128mm < 0.152mm) Between Pad D22-A(135.25mm,84.682mm) on Top Sig And Track (135.26mm,83.969mm)(135.26mm,84.071mm) on Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Pad U3-V(121.815mm,124.44mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Pad U3-V(122.79mm,123.715mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Pad U3-V(122.79mm,125.165mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Pad U3-V(123.765mm,124.44mm) on Multi-Layer 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad U3-V(121.815mm,124.44mm) on Multi-Layer And Region (0 hole(s)) Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad U3-V(122.79mm,123.715mm) on Multi-Layer And Region (0 hole(s)) Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad U3-V(122.79mm,125.165mm) on Multi-Layer And Region (0 hole(s)) Top Sig 
+   Violation between Clearance Constraint: (Collision < 0.152mm) Between Pad U3-V(123.765mm,124.44mm) on Multi-Layer And Region (0 hole(s)) Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U4-1(130.19mm,124.28mm) on Top Sig And Pad U4-7(130.59mm,124.735mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U4-2(130.59mm,124.28mm) on Top Sig And Pad U4-3(130.99mm,124.28mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U4-2(130.59mm,124.28mm) on Top Sig And Pad U4-7(130.59mm,124.735mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U4-4(130.99mm,125.19mm) on Top Sig And Pad U4-5(130.59mm,125.19mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U4-4(130.99mm,125.19mm) on Top Sig And Pad U4-7(130.59mm,124.735mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U4-5(130.59mm,125.19mm) on Top Sig And Pad U4-6(130.19mm,125.19mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U4-5(130.59mm,125.19mm) on Top Sig And Pad U4-7(130.59mm,124.735mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U4-6(130.19mm,125.19mm) on Top Sig And Pad U4-7(130.59mm,124.735mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-1(114mm,69.5mm) on Top Sig And Pad U8-2(114mm,70mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-10(111.55mm,71mm) on Top Sig And Pad U8-11(111.55mm,70.5mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-10(111.55mm,71mm) on Top Sig And Pad U8-9(111.55mm,71.5mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-11(111.55mm,70.5mm) on Top Sig And Pad U8-12(111.55mm,70mm) on Top Sig 
+   Violation between Clearance Constraint: (0.122mm < 0.152mm) Between Pad U8-11(111.55mm,70.5mm) on Top Sig And Track (110.75mm,70mm)(111.55mm,70mm) on Top Sig 
+   Violation between Clearance Constraint: (0.122mm < 0.152mm) Between Pad U8-11(111.55mm,70.5mm) on Top Sig And Track (110.75mm,71mm)(111.55mm,71mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-12(111.55mm,70mm) on Top Sig And Pad U8-13(111.55mm,69.5mm) on Top Sig 
+   Violation between Clearance Constraint: (0.122mm < 0.152mm) Between Pad U8-13(111.55mm,69.5mm) on Top Sig And Track (110.75mm,70mm)(111.55mm,70mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-14(112.275mm,69.275mm) on Top Sig And Pad U8-15(112.775mm,69.275mm) on Top Sig 
+   Violation between Clearance Constraint: (0.122mm < 0.152mm) Between Pad U8-2(114mm,70mm) on Top Sig And Track (114mm,68.5mm)(114mm,69.5mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-3(114mm,70.5mm) on Top Sig And Pad U8-4(114mm,71mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-4(114mm,71mm) on Top Sig And Pad U8-5(114mm,71.5mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-6(113.275mm,71.725mm) on Top Sig And Pad U8-7(112.775mm,71.725mm) on Top Sig 
+   Violation between Clearance Constraint: (0.15mm < 0.152mm) Between Pad U8-7(112.775mm,71.725mm) on Top Sig And Pad U8-8(112.275mm,71.725mm) on Top Sig 
+   Violation between Clearance Constraint: (0.122mm < 0.152mm) Between Pad U8-9(111.55mm,71.5mm) on Top Sig And Track (110.75mm,71mm)(111.55mm,71mm) on Top Sig 
+Rule Violations :45
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Pad U3-V(121.815mm,124.44mm) on Multi-Layer Location : [X = 121.816mm][Y = 124.44mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Pad U3-V(122.79mm,123.715mm) on Multi-Layer Location : [X = 122.79mm][Y = 123.716mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Pad U3-V(122.79mm,125.165mm) on Multi-Layer Location : [X = 122.79mm][Y = 125.164mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Pad U3-V(123.765mm,124.44mm) on Multi-Layer Location : [X = 123.764mm][Y = 124.44mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-V(121.815mm,124.44mm) on Multi-Layer And Region (0 hole(s)) Top Sig Location : [X = 121.816mm][Y = 124.44mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-V(122.79mm,123.715mm) on Multi-Layer And Region (0 hole(s)) Top Sig Location : [X = 122.79mm][Y = 123.716mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-V(122.79mm,125.165mm) on Multi-Layer And Region (0 hole(s)) Top Sig Location : [X = 122.79mm][Y = 125.164mm]
+   Violation between Short-Circuit Constraint: Between Pad U3-V(123.765mm,124.44mm) on Multi-Layer And Region (0 hole(s)) Top Sig Location : [X = 123.764mm][Y = 124.44mm]
+Rule Violations :8
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad C25-2(54.5mm,110.22mm) on Top Sig And Arc (55.188mm,108.819mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetC25_2 Between Pad FLT1-1(53.71mm,108.75mm) on Top Sig And Arc (55.188mm,108.819mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetC10_1 Between Pad R20-2(151.93mm,134.64mm) on Top Sig And Pad C10-1(153mm,134.64mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad C10-2(153.86mm,134.64mm) on Top Sig And Pad D1-K(154.505mm,132.39mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad J12-1(127.744mm,249.615mm) on Multi-Layer And Pad C10-2(153.86mm,134.64mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C15-1(66.846mm,97.096mm) on Top Sig And Pad C14-1(67.592mm,96.392mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C22-1(66.096mm,97.846mm) on Top Sig And Pad C15-1(66.846mm,97.096mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (62.083mm,105.921mm)(62.649mm,105.921mm) on Top Sig And Pad C16-1(65.396mm,108.104mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad C21-2(63.53mm,105.9mm) on Top Sig And Track (66.563mm,105.927mm)(66.563mm,105.99mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C22-1(66.096mm,97.846mm) on Top Sig And Via (66.345mm,100.558mm) from Top Sig to Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C25-1(54.5mm,111.08mm) on Top Sig And Pad C24-1(56.4mm,111.13mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C24-1(56.4mm,111.13mm) on Top Sig And Via (57.5mm,111.5mm) from Top Sig to Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net RF_OUT Between Pad C24-2(56.4mm,110.27mm) on Top Sig And Track (56.526mm,108.457mm)(62.295mm,108.457mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad FLT1-4(53.1mm,108.979mm) on Top Sig And Pad C25-1(54.5mm,111.08mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C30-1(61.196mm,100.946mm) on Top Sig And Track (63.045mm,102.113mm)(63.051mm,102.119mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetC30_2 Between Pad C30-2(61.804mm,101.554mm) on Top Sig And Pad L4-1(63.351mm,100.601mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetC30_2 Between Pad R38-1(61.072mm,102.322mm) on Top Sig And Pad C30-2(61.804mm,101.554mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q11-S(113.466mm,251.24mm) on Top Sig And Pad C39-2(119.94mm,143.99mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C40-2(138.44mm,144.24mm) on Top Sig And Pad D37-2(147.75mm,144.7mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C41-1(68.996mm,112.004mm) on Top Sig And Track (72.704mm,111.454mm)(72.704mm,111.461mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C42-1(71.296mm,114.404mm) on Top Sig And Via (73.203mm,111.967mm) from Top Sig to Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J7-SH2(80.3mm,80.25mm) on Bottom Sig [Unplated] And Pad D13-A(80.351mm,83.25mm) on Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D19-A(80.237mm,73mm) on Top Sig And Pad J7-SH3(80.3mm,70.65mm) on Bottom Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad U5-4(153.685mm,128.19mm) on Top Sig And Pad D1-K(154.505mm,132.39mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad U8-1(114mm,69.5mm) on Top Sig And Pad D21-K(135.25mm,69.581mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VBATT Between Pad D28-K(64.297mm,137.417mm) on Top Sig And Pad U3-7(120.89mm,125.44mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VBATT Between Pad U7-7(61.635mm,81.935mm) on Top Sig And Pad D28-K(64.297mm,137.417mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q11-S(113.466mm,251.24mm) on Top Sig And Pad D36-A(118.346mm,253.476mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad D36-K(118.346mm,252.625mm) on Top Sig And Pad J12-1(127.744mm,249.615mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R53-2(85.205mm,83.5mm) on Bottom Sig And Pad D6-K(94.25mm,77.669mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad FLT1-2(53.1mm,108.521mm) on Top Sig And Pad FLT1-4(53.1mm,108.979mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetFLT1_3 Between Pad R29-2(51.73mm,108.75mm) on Top Sig And Pad FLT1-3(52.49mm,108.75mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net +5 Between Pad J10-8(126.5mm,72.5mm) on Multi-Layer And Pad TP12-1(157.937mm,115.25mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-1-(168.55mm,118.89mm) on Multi-Layer And Pad SW4-2(174.75mm,119.8mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetJ12_2 Between Pad J12-2(125.794mm,249.615mm) on Multi-Layer And Pad J12-2(129.694mm,249.615mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ12_2 Between Pad Q11-D(115.606mm,252.155mm) on Top Sig And Pad J12-2(125.794mm,249.615mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J3-GND(30mm,67.025mm) on Top Sig And Pad J3-GND(30mm,69.975mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J3-GND(30mm,67.025mm) on Top Sig And Pad TP14-1(30.176mm,54.707mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J3-GND(30mm,69.975mm) on Top Sig And Via (57.5mm,69.5mm) from Top Sig to Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net USB_D_N Between Track (84.04mm,76.755mm)(84.154mm,76.755mm) on Top Sig And Pad J8-2(84.259mm,71.208mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net USB_D_P Between Pad J8-3(84.909mm,71.208mm) on Top Sig And Track (85.919mm,75mm)(86.081mm,75.162mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetL3_1 Between Pad L4-2(62.149mm,99.399mm) on Top Sig And Pad L3-1(63.798mm,97.798mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetL3_2 Between Pad R37-1(59.572mm,100.822mm) on Top Sig And Pad L3-2(65mm,99mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetQ11_G Between Pad R61-1(107.297mm,252.462mm) on Top Sig And Pad Q11-G(113.466mm,253.07mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R62-1(101.455mm,252.462mm) on Top Sig And Pad Q11-S(113.466mm,251.24mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R47-2(64.75mm,87.705mm) on Top Sig And Pad Q7-S(69.835mm,91.32mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (66.725mm,98.454mm)(68.179mm,97mm) on Top Sig And Pad Q7-S(69.835mm,91.32mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R18-2(119.205mm,123.19mm) on Top Sig And Pad R17-2(121.915mm,122.29mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R17-2(121.915mm,122.29mm) on Top Sig And Track (130.288mm,123.118mm)(130.31mm,123.14mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R3-2(110.455mm,126.23mm) on Top Sig And Pad R18-2(119.205mm,123.19mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net BOOST_IND Between Pad R20-1(151.02mm,134.64mm) on Top Sig And Pad U5-1(151.175mm,130.09mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetR22_2 Between Pad U6-28(67.391mm,106.227mm) on Top Sig [Unplated] And Pad R22-2(146.81mm,132.195mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R25-2(168.275mm,148.505mm) on Top Sig And Pad R26-2(178.525mm,148.755mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R27-2(158.025mm,148.255mm) on Top Sig And Pad R25-2(168.275mm,148.505mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R26-2(178.525mm,148.755mm) on Top Sig And Pad R63-2(198.043mm,105.483mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R68-2(147.75mm,148.455mm) on Top Sig And Pad R27-2(158.025mm,148.255mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetFLT1_3 Between Pad R28-1(51.725mm,107.705mm) on Top Sig And Pad R29-2(51.73mm,108.75mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetFLT1_3 Between Pad R30-2(51.725mm,109.795mm) on Top Sig And Pad R29-2(51.73mm,108.75mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net LED_YELLOW Between Pad U6-65(74.957mm,102.621mm) on Top Sig [Unplated] And Pad R31-2(161.775mm,144.845mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (106.133mm,129.778mm)(107.103mm,129.778mm) on Top Sig And Pad R3-2(110.455mm,126.23mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net LED_RED Between Pad U6-29(67.108mm,105.945mm) on Top Sig [Unplated] And Pad R32-2(172.025mm,144.89mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net LED_BLUE Between Pad U6-51(70.22mm,98.944mm) on Top Sig [Unplated] And Pad R33-2(151.775mm,144.64mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetL3_2 Between Pad R37-1(59.572mm,100.822mm) on Top Sig And Pad R38-2(60.428mm,101.678mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R37-2(58.928mm,100.178mm) on Top Sig And Track (66.725mm,98.454mm)(67.283mm,99.012mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (81.9mm,107.6mm) from Top Sig to Bottom Sig And Pad R39-1(84.428mm,119.322mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R40-2(76.2mm,112.6mm) on Top Sig And Pad SW1-1(77.843mm,114.879mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (72.096mm,110.746mm)(72.096mm,110.846mm) on Top Sig And Pad R41-2(75.422mm,113.372mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R48-2(59.115mm,86.75mm) on Top Sig And Pad R47-2(64.75mm,87.705mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R50-2(63.295mm,84.5mm) on Bottom Sig And Pad R47-2(64.75mm,87.705mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R50-2(63.295mm,84.5mm) on Bottom Sig And Pad R52-2(68.44mm,84.5mm) on Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R51-2(80.374mm,84.5mm) on Bottom Sig And Pad R53-2(85.205mm,83.5mm) on Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (73.535mm,79.815mm)(73.535mm,81.185mm) on Bottom Sig And Pad R51-2(80.374mm,84.5mm) on Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R52-2(68.44mm,84.5mm) on Bottom Sig And Track (73.535mm,79.815mm)(73.535mm,81.185mm) on Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R57-2(73.491mm,134.667mm) on Top Sig And Pad R58-2(76.491mm,134.667mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R58-2(76.491mm,134.667mm) on Top Sig And Pad R59-2(79.572mm,134.667mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R58-2(76.491mm,134.667mm) on Top Sig And Pad SW1-1(77.843mm,114.879mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R59-2(79.572mm,134.667mm) on Top Sig And Pad R9-2(96.355mm,129.68mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetQ11_G Between Pad R62-2(101.455mm,253.372mm) on Top Sig And Pad R61-1(107.297mm,252.462mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetR61_2 Between Pad U6-27(67.674mm,106.51mm) on Top Sig [Unplated] And Pad R61-2(107.297mm,253.372mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R63-2(198.043mm,105.483mm) on Top Sig And Pad R65-2(200.588mm,105.483mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad TP11-1(140.312mm,115.25mm) on Top Sig [Unplated] And Pad R68-2(147.75mm,148.455mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net FLOW_SIG Between Pad R70-1(70.478mm,113.622mm) on Top Sig And Pad TP32-1(127.75mm,87.5mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net TEMP_SIG Between Pad R71-1(69.678mm,112.822mm) on Top Sig And Track (118.5mm,87.5mm)(118.553mm,87.447mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R9-2(96.355mm,129.68mm) on Top Sig And Pad R8-2(96.355mm,126.68mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad R8-2(96.355mm,126.68mm) on Top Sig And Pad U2-8(103.51mm,125.386mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetSW3_1 Between Pad U6-58(72.977mm,100.641mm) on Top Sig [Unplated] And Pad SW3-1(174.75mm,90.95mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW3-2(174.75mm,100.05mm) on Top Sig And Pad SW4-2(174.75mm,119.8mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetSW4_1 Between Pad U6-59(73.26mm,100.924mm) on Top Sig [Unplated] And Pad SW4-1(174.75mm,110.7mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net NetSW5_1 Between Pad U6-60(73.543mm,101.207mm) on Top Sig [Unplated] And Pad SW5-1(174.75mm,130.45mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad SW5-2(174.75mm,139.55mm) on Top Sig And Via (175.25mm,144mm) from Top Sig to Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad TP17-1(23.064mm,54.707mm) on Top Sig [Unplated] And Pad TP14-1(30.176mm,54.707mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ROT_SWT_OUT Between Pad U6-57(72.695mm,100.358mm) on Top Sig [Unplated] And Pad TP41-1(188.5mm,118.5mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net ROT_SWT_OUT Between Pad TP41-1(188.5mm,118.5mm) on Top Sig [Unplated] And Track (193.249mm,122mm)(197.05mm,122mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net BATT_DETECT Between Pad U6-67(75.523mm,103.187mm) on Top Sig [Unplated] And Pad TP9-1(122.687mm,115.25mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VIN2 Between Track (102.167mm,134.418mm)(102.355mm,134.23mm) on Top Sig And Pad U1-2_1(107.905mm,129.43mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad U2-8(103.51mm,125.386mm) on Top Sig And Track (106.105mm,129.75mm)(106.133mm,129.778mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-13(122.79mm,124.44mm) on Top Sig And Track (124.69mm,124.24mm)(124.692mm,124.242mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VBATT_SWT Between Pad U3-8(120.89mm,125.04mm) on Top Sig And Track (124.887mm,125.44mm)(125.364mm,125.917mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (66.004mm,107.297mm)(66.004mm,107.496mm) on Top Sig And Pad U6-13(72.412mm,107.924mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net NetU6_17 Between Pad U6-17(71.28mm,109.056mm) on Top Sig [Unplated] And Pad U8-11(111.55mm,70.5mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net ROT_TIM1_CH1 Between Pad U6-23(68.805mm,107.642mm) on Top Sig [Unplated] And Track (190.5mm,104mm)(190.5mm,105mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net ROT_TIM1_CH2 Between Pad U6-24(68.523mm,107.359mm) on Top Sig [Unplated] And Track (203.486mm,105.471mm)(203.498mm,105.483mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (66.563mm,105.927mm)(66.563mm,105.99mm) on Top Sig And Pad U6-45(68.523mm,100.641mm) on Top Sig [Unplated] 
+   Violation between Un-Routed Net Constraint: Net VDD Between Pad U6-45(68.523mm,100.641mm) on Top Sig [Unplated] And Track (73.22mm,98.704mm)(73.296mm,98.704mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net PWR_SWT_STAT Between Pad U6-61(73.826mm,101.49mm) on Top Sig [Unplated] And Via (111.25mm,127.25mm) from Top Sig to Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net NetD22_K Between Pad U6-64(74.674mm,102.338mm) on Top Sig [Unplated] And Track (135.26mm,83.969mm)(135.26mm,84.071mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GAUGE_IO Between Pad U6-66(75.24mm,102.904mm) on Top Sig [Unplated] And Track (120.948mm,122.347mm)(120.948mm,123.438mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net nRST Between Pad U6-8(73.826mm,106.51mm) on Top Sig [Unplated] And Track (89.46mm,80.29mm)(89.46mm,81.71mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (99.169mm,74.479mm)(99.169mm,75.127mm) on Top Sig And Pad U8-8(112.275mm,71.725mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VIN1 Between Track (99.305mm,123.605mm)(99.305mm,123.68mm) on Top Sig And Track (107.105mm,126.183mm)(107.147mm,126.225mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (62.083mm,104.921mm)(62.649mm,104.921mm) on Top Sig And Track (63.585mm,102.985mm)(63.6mm,103mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Track (63.07mm,102.1mm)(63.085mm,102.115mm) on Top Sig And Track (63.585mm,102.985mm)(63.6mm,103mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net HSE_IN Between Track (63.915mm,102.115mm)(63.93mm,102.1mm) on Top Sig And Track (64.4mm,103mm)(64.4mm,103.03mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net GND Between Via (65mm,77mm) from Top Sig to Bottom Sig And Track (64.5mm,80mm)(65.45mm,80mm) on Bottom Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (73.22mm,98.704mm)(73.296mm,98.704mm) on Top Sig And Track (75.808mm,103.47mm)(76.474mm,102.804mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Via (73.506mm,79.786mm) from Top Sig to Bottom Sig And Track (73.753mm,79.067mm)(73.753mm,79.497mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net VDD Between Track (75.422mm,113.372mm)(75.425mm,113.372mm) on Top Sig And Track (76.197mm,112.6mm)(76.2mm,112.6mm) on Top Sig 
+   Violation between Un-Routed Net Constraint: Net +5_USB Between Track (81.737mm,72.25mm)(83.036mm,72.25mm) on Top Sig And Track (81.138mm,73.148mm)(81.787mm,72.5mm) on Top Sig 
+Rule Violations :118
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.181mm) (Max=0.303mm) (Preferred=0.303mm) (InNetClass('RF'))
+   Violation between Width Constraint: Track (66.035mm,105.83mm)(66.164mm,105.7mm) on Top Sig Actual Width = 0.203mm, Target Width = 0.303mm
+   Violation between Width Constraint: Track (66.164mm,105.7mm)(66.2mm,105.7mm) on Top Sig Actual Width = 0.203mm, Target Width = 0.303mm
+Rule Violations :2
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=1.524mm) (Preferred=0.914mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.152mm) (Max=3.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.025mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.025mm) Between Pad C5-1(110.555mm,130.27mm) on Top Sig And Via (110.555mm,131.04mm) from Top Sig to Bottom Sig [Top Solder] Mask Sliver [0.017mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.004mm < 0.025mm) Between Pad C9-1(131.17mm,123.14mm) on Top Sig And Via (131.927mm,123.148mm) from Top Sig to Bottom Sig [Top Solder] Mask Sliver [0.004mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.021mm < 0.025mm) Between Pad D31-A(76.483mm,137.417mm) on Top Sig And Via (75.75mm,137.5mm) from Top Sig to Bottom Sig [Top Solder] Mask Sliver [0.021mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.012mm < 0.025mm) Between Pad R3-1(110.455mm,127.14mm) on Top Sig And Via (111.25mm,127.25mm) from Top Sig to Bottom Sig [Top Solder] Mask Sliver [0.012mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.017mm < 0.025mm) Between Pad R5-1(111.41mm,128.34mm) on Top Sig And Via (111.455mm,129.14mm) from Top Sig to Bottom Sig [Top Solder] Mask Sliver [0.017mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.006mm < 0.025mm) Between Pad U6-35(65.694mm,103.47mm) on Top Sig And Via (65.203mm,102.695mm) from Top Sig to Bottom Sig [Top Solder] Mask Sliver [0.006mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.006mm < 0.025mm) Between Pad U6-36(65.977mm,103.187mm) on Top Sig And Via (65.203mm,102.695mm) from Top Sig to Bottom Sig [Top Solder] Mask Sliver [0.006mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.009mm < 0.025mm) Between Pad U6-51(70.22mm,98.944mm) on Top Sig And Via (70.208mm,98.188mm) from Top Sig to Bottom Sig [Top Solder] Mask Sliver [0.009mm]
+Rule Violations :8
+
+Processing Rule : Silk To Solder Mask (Clearance=0.061mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.061mm) Between Pad D19-K(81.088mm,73mm) on Top Sig And Text "J8" (80.67mm,72.441mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.061mm) Between Pad TP30-1(83.169mm,75mm) on Top Sig And Track (82.877mm,76.865mm)(83.639mm,76.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.061mm) Between Pad TP30-1(83.169mm,75mm) on Top Sig And Track (83.639mm,76.865mm)(83.639mm,78.135mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.061mm) Between Pad TP31-1(85.919mm,75mm) on Top Sig And Track (85.611mm,76.865mm)(85.611mm,78.135mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.061mm) Between Pad TP31-1(85.919mm,75mm) on Top Sig And Track (85.611mm,76.865mm)(86.373mm,76.865mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mm]
+Rule Violations :5
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.19mm < 0.254mm) Between Text "C21" (59.984mm,105.58mm) on Top Overlay And Text "C28" (59.885mm,104.735mm) on Top Overlay Silk Text to Silk Clearance [0.19mm]
+   Violation between Silk To Silk Clearance Constraint: (0.088mm < 0.254mm) Between Text "C26" (60.972mm,102.78mm) on Top Overlay And Text "R38" (59.882mm,101.936mm) on Top Overlay Silk Text to Silk Clearance [0.088mm]
+   Violation between Silk To Silk Clearance Constraint: (0.18mm < 0.254mm) Between Text "CS" (81.539mm,144.48mm) on Top Overlay And Track (80.304mm,143.195mm)(81.066mm,144.211mm) on Top Overlay Silk Text to Silk Clearance [0.18mm]
+   Violation between Silk To Silk Clearance Constraint: (0.18mm < 0.254mm) Between Text "CS" (81.539mm,144.48mm) on Top Overlay And Track (81.066mm,144.211mm)(81.828mm,143.195mm) on Top Overlay Silk Text to Silk Clearance [0.18mm]
+   Violation between Silk To Silk Clearance Constraint: (0.173mm < 0.254mm) Between Text "D24" (122.679mm,77.264mm) on Top Overlay And Track (121.68mm,75.818mm)(122.442mm,75.818mm) on Top Overlay Silk Text to Silk Clearance [0.173mm]
+   Violation between Silk To Silk Clearance Constraint: (0.173mm < 0.254mm) Between Text "D24" (122.679mm,77.264mm) on Top Overlay And Track (121.68mm,77.088mm)(122.442mm,77.088mm) on Top Overlay Silk Text to Silk Clearance [0.173mm]
+   Violation between Silk To Silk Clearance Constraint: (0.173mm < 0.254mm) Between Text "D24" (122.679mm,77.264mm) on Top Overlay And Track (122.442mm,75.818mm)(122.442mm,77.088mm) on Top Overlay Silk Text to Silk Clearance [0.173mm]
+   Violation between Silk To Silk Clearance Constraint: (0.001mm < 0.254mm) Between Text "J8" (80.67mm,72.441mm) on Top Overlay And Track (80.796mm,72.365mm)(81.558mm,72.365mm) on Top Overlay Silk Text to Silk Clearance [0.001mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "J8" (80.67mm,72.441mm) on Top Overlay And Track (81.558mm,72.365mm)(81.558mm,73.635mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.172mm < 0.254mm) Between Text "MISO" (76.713mm,144.483mm) on Top Overlay And Track (75.224mm,144.211mm)(76.748mm,144.211mm) on Top Overlay Silk Text to Silk Clearance [0.172mm]
+   Violation between Silk To Silk Clearance Constraint: (0.175mm < 0.254mm) Between Text "MISO" (76.713mm,144.483mm) on Top Overlay And Track (75.986mm,143.195mm)(76.748mm,144.211mm) on Top Overlay Silk Text to Silk Clearance [0.175mm]
+   Violation between Silk To Silk Clearance Constraint: (0.2533mm (9.9706mil) < 0.254mm (10mil)) Between Text "MOSI" (78.999mm,144.501mm) on Top Overlay And Track (77.764mm,143.195mm)(78.526mm,144.211mm) on Top Overlay Silk Text to Silk Clearance [0.253mm]
+   Violation between Silk To Silk Clearance Constraint: (0.2533mm (9.9706mil) < 0.254mm (10mil)) Between Text "MOSI" (78.999mm,144.501mm) on Top Overlay And Track (78.526mm,144.211mm)(79.288mm,143.195mm) on Top Overlay Silk Text to Silk Clearance [0.253mm]
+Rule Violations :13
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (193.249mm,122mm)(197.05mm,122mm) on Top Sig 
+   Violation between Net Antennae: Track (74.556mm,108.053mm)(75.126mm,108.624mm) on Top Sig 
+Rule Violations :2
+
+Processing Rule : Room U_Fuel-Gauge (Bounding Region = (115.711mm, 117.311mm, 127.189mm, 133.669mm) (InComponentClass('U_Fuel-Gauge'))
+   Violation between Room Definition: Between Room U_Fuel-Gauge (Bounding Region = (115.711mm, 117.311mm, 127.189mm, 133.669mm) (InComponentClass('U_Fuel-Gauge')) And SMT Small Component TP10-RH-5019 (131.5mm,115.25mm) on Top Sig 
+   Violation between Room Definition: Between Room U_Fuel-Gauge (Bounding Region = (115.711mm, 117.311mm, 127.189mm, 133.669mm) (InComponentClass('U_Fuel-Gauge')) And SMT Small Component TP8-RH-5019 (149.125mm,115.25mm) on Top Sig 
+   Violation between Room Definition: Between Room U_Fuel-Gauge (Bounding Region = (115.711mm, 117.311mm, 127.189mm, 133.669mm) (InComponentClass('U_Fuel-Gauge')) And SMT Small Component TP9-RH-5019 (122.687mm,115.25mm) on Top Sig 
+Rule Violations :3
+
+Processing Rule : Room U_MCU-BLE (Bounding Region = (18.321mm, 50.75mm, 179.454mm, 149.529mm) (InComponentClass('U_MCU-BLE'))
+Rule Violations :0
+
+Processing Rule : Room U_Boost (Bounding Region = (141.036mm, 113.771mm, 169.129mm, 135.469mm) (InComponentClass('U_Boost'))
+Rule Violations :0
+
+Processing Rule : Room U_LDO (Bounding Region = (127.811mm, 113.771mm, 142.691mm, 126.894mm) (InComponentClass('U_LDO'))
+   Violation between Room Definition: Between Room U_LDO (Bounding Region = (127.811mm, 113.771mm, 142.691mm, 126.894mm) (InComponentClass('U_LDO')) And SMT Small Component D37-LED - single (147.75mm,145.5mm) on Top Sig 
+   Violation between Room Definition: Between Room U_LDO (Bounding Region = (127.811mm, 113.771mm, 142.691mm, 126.894mm) (InComponentClass('U_LDO')) And SMT Small Component R68-RES (147.75mm,148mm) on Top Sig 
+Rule Violations :2
+
+Processing Rule : Room U_Pressure-Sensor (Bounding Region = (134.297mm, 66.692mm, 164.25mm, 87.25mm) (InComponentClass('U_Pressure-Sensor'))
+Rule Violations :0
+
+Processing Rule : Room U_Flow-Sensor (Bounding Region = (116.121mm, 66.048mm, 131.854mm, 88.979mm) (InComponentClass('U_Flow-Sensor'))
+Rule Violations :0
+
+Processing Rule : Room U_Amplifier (Bounding Region = (58.341mm, 66.569mm, 77.629mm, 92.954mm) (InComponentClass('U_Amplifier'))
+Rule Violations :0
+
+Processing Rule : Room U_Magnetic-Charger (Bounding Region = (100.626mm, 245.11mm, 132.249mm, 254.146mm) (InComponentClass('U_Magnetic-Charger'))
+Rule Violations :0
+
+Processing Rule : Room U_SD-Socket (Bounding Region = (60.871mm, 65.746mm, 87.379mm, 89.729mm) (InComponentClass('U_SD-Socket'))
+Rule Violations :0
+
+Processing Rule : Room U_SWD (Bounding Region = (87.121mm, 66.25mm, 111.881mm, 88.729mm) (InComponentClass('U_SWD'))
+Rule Violations :0
+
+Processing Rule : Room U_USB-Socket (Bounding Region = (79.653mm, 65.954mm, 89.648mm, 78.952mm) (InComponentClass('U_USB-Socket'))
+Rule Violations :0
+
+Processing Rule : Room U_Gyroscope (Bounding Region = (110.621mm, 67.496mm, 115.229mm, 72.529mm) (InComponentClass('U_Gyroscope'))
+Rule Violations :0
+
+Processing Rule : Room U_TFT-Display (Bounding Region = (59.521mm, 128.288mm, 88mm, 149mm) (InComponentClass('U_TFT-Display'))
+Rule Violations :0
+
+Processing Rule : Room U_Rotary-Encoder (Bounding Region = (186.121mm, 102.521mm, 208.879mm, 123.106mm) (InComponentClass('U_Rotary-Encoder'))
+Rule Violations :0
+
+Processing Rule : Room U_Tacile-Buttons (Bounding Region = (173.694mm, 89.544mm, 180.306mm, 140.956mm) (InComponentClass('U_Tacile-Buttons'))
+Rule Violations :0
+
+Processing Rule : Room U_PWR-Switch (Bounding Region = (89.746mm, 107.906mm, 174.754mm, 149.174mm) (InComponentClass('U_PWR-Switch'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+   Violation between Height Constraint: Component SW2-PEC11R-4220K-S0024 (199.55mm,110mm) on Top Sig Actual Height = 26.727mm
+Rule Violations :1
+
+
+Violations Detected : 207
+Waived Violations : 0
+Time Elapsed        : 00:00:02

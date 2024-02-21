@@ -406,6 +406,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXKHIACC
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Design Rule Check - PressurePulse_Brain-PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1469,7 +1473,7 @@ Net4=NetName=GAIN_12DB|NetColor=$00FF6EFF
 Net5=NetName=GAIN_15DB|NetColor=$00FF6EFF
 Net6=NetName=GAIN_3DB|NetColor=$00FF6EFF
 Net7=NetName=GAIN_6DB|NetColor=$00FF6EFF
-Net8=NetName=GND|NetColor=$00A4ADBA
+Net8=NetName=GND|NetColor=$008D96A6
 Net9=NetName=I2C3_SCL|NetColor=$000093A4
 Net10=NetName=I2C3_SDA|NetColor=$000093A4
 Net11=NetName=I2S_AMP_SD|NetColor=$00FF6EFF
