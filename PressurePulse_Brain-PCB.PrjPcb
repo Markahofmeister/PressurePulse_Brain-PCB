@@ -435,6 +435,86 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Design Rule Check - PressurePulse_Brain-PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Pick Place\Pick Place for PressurePulse_Brain-PCB.csv
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\NC Drill\PressurePulse_Brain-PCB-RectHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\NC Drill\PressurePulse_Brain-PCB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\NC Drill\PressurePulse_Brain-PCB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\NC Drill\PressurePulse_Brain-PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GM
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\NC Drill\PressurePulse_Brain-PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for PressurePulse_Brain-PCB\Gerber\PressurePulse_Brain-PCB.REP
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

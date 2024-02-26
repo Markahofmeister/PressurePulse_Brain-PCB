@@ -1,15 +1,15 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\marka\Spring-2024\Senior-Design\ece_1896\electrical\PressurePulse_Brain-PCB\PressurePulse_Brain-PCB.PcbDoc
-Date     : 2/23/2024
-Time     : 5:55:52 PM
+Date     : 2/26/2024
+Time     : 1:29:06 PM
 
-Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.508mm) (InNet('VDD')),(InNet('VBATT'))
+Processing Rule : Clearance Constraint (Gap=20mil) (InNet('VDD')),(InNet('VBATT'))
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=0.508mm) (InNet('VDD')),(InNet('+5'))
+Processing Rule : Clearance Constraint (Gap=20mil) (InNet('VDD')),(InNet('+5'))
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -21,84 +21,84 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=0.181mm) (Max=0.303mm) (Preferred=0.303mm) (InNetClass('RF'))
-   Violation between Width Constraint: Track (66.035mm,105.83mm)(66.164mm,105.7mm) on Top Sig Actual Width = 0.203mm, Target Width = 0.303mm
-   Violation between Width Constraint: Track (66.164mm,105.7mm)(66.2mm,105.7mm) on Top Sig Actual Width = 0.203mm, Target Width = 0.303mm
+Processing Rule : Width Constraint (Min=6.693mil) (Max=11.94mil) (Preferred=11.257mil) (InNetClass('RF'))
+   Violation between Width Constraint: Track (1615.532mil,1607.479mil)(1620.649mil,1602.362mil) on Top Sig Actual Width = 8mil, Target Width = 11.024mil
+   Violation between Width Constraint: Track (1620.649mil,1602.362mil)(1622.047mil,1602.362mil) on Top Sig Actual Width = 8mil, Target Width = 11.024mil
 Rule Violations :2
 
-Processing Rule : Width Constraint (Min=0.152mm) (Max=1.524mm) (Preferred=0.914mm) (All)
+Processing Rule : Width Constraint (Min=6mil) (Max=60mil) (Preferred=36mil) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.152mm) (Max=3.5mm) (All)
+Processing Rule : Hole Size Constraint (Min=5.984mil) (Max=137.795mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.025mm) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.984mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.061mm) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=2.4mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
 Rule Violations :0
 
-Processing Rule : Room U_Fuel-Gauge (Bounding Region = (116.723mm, 113.771mm, 151.504mm, 130.15mm) (InComponentClass('U_Fuel-Gauge'))
+Processing Rule : Room U_Fuel-Gauge (Bounding Region = (4595.394mil, 4479.173mil, 5964.724mil, 5124.016mil) (InComponentClass('U_Fuel-Gauge'))
 Rule Violations :0
 
-Processing Rule : Room U_LDO (Bounding Region = (129.411mm, 113.771mm, 148.679mm, 149.229mm) (InComponentClass('U_LDO'))
+Processing Rule : Room U_LDO (Bounding Region = (5094.921mil, 4479.173mil, 5853.504mil, 5875.158mil) (InComponentClass('U_LDO'))
 Rule Violations :0
 
-Processing Rule : Room U_PWR-Switch (Bounding Region = (89.746mm, 107.906mm, 174.754mm, 150.181mm) (InComponentClass('U_PWR-Switch'))
+Processing Rule : Room U_PWR-Switch (Bounding Region = (3533.307mil, 4248.268mil, 6880.079mil, 5912.622mil) (InComponentClass('U_PWR-Switch'))
 Rule Violations :0
 
-Processing Rule : Room U_Boost (Bounding Region = (141.036mm, 113.771mm, 169.129mm, 138.01mm) (InComponentClass('U_Boost'))
+Processing Rule : Room U_Boost (Bounding Region = (5552.598mil, 4479.173mil, 6658.621mil, 5433.465mil) (InComponentClass('U_Boost'))
 Rule Violations :0
 
-Processing Rule : Room U_Pressure-Sensor (Bounding Region = (134.297mm, 66.692mm, 164.25mm, 87.25mm) (InComponentClass('U_Pressure-Sensor'))
+Processing Rule : Room U_Pressure-Sensor (Bounding Region = (5287.303mil, 2625.669mil, 6466.535mil, 3435.039mil) (InComponentClass('U_Pressure-Sensor'))
 Rule Violations :0
 
-Processing Rule : Room U_Flow-Sensor (Bounding Region = (116.121mm, 66.048mm, 131.854mm, 88.979mm) (InComponentClass('U_Flow-Sensor'))
+Processing Rule : Room U_Flow-Sensor (Bounding Region = (4571.693mil, 2600.295mil, 5191.102mil, 3503.11mil) (InComponentClass('U_Flow-Sensor'))
 Rule Violations :0
 
-Processing Rule : Room U_MCU-BLE (Bounding Region = (18.321mm, 66.2mm, 179.454mm, 149.029mm) (InComponentClass('U_MCU-BLE'))
+Processing Rule : Room U_MCU-BLE (Bounding Region = (721.299mil, 2606.311mil, 7065.118mil, 5867.283mil) (InComponentClass('U_MCU-BLE'))
 Rule Violations :0
 
-Processing Rule : Room U_Amplifier (Bounding Region = (58.341mm, 66.569mm, 77.629mm, 92.954mm) (InComponentClass('U_Amplifier'))
+Processing Rule : Room U_Amplifier (Bounding Region = (2296.89mil, 2620.843mil, 3056.26mil, 3659.606mil) (InComponentClass('U_Amplifier'))
 Rule Violations :0
 
-Processing Rule : Room U_Gyroscope (Bounding Region = (109.371mm, 68.246mm, 113.979mm, 73.279mm) (InComponentClass('U_Gyroscope'))
+Processing Rule : Room U_Gyroscope (Bounding Region = (4305.945mil, 2686.85mil, 4487.362mil, 2885mil) (InComponentClass('U_Gyroscope'))
 Rule Violations :0
 
-Processing Rule : Room U_USB-Socket (Bounding Region = (79.653mm, 65.954mm, 89.648mm, 78.952mm) (InComponentClass('U_USB-Socket'))
+Processing Rule : Room U_USB-Socket (Bounding Region = (3135.949mil, 2596.614mil, 3529.453mil, 3108.366mil) (InComponentClass('U_USB-Socket'))
 Rule Violations :0
 
-Processing Rule : Room U_Magnetic-Charger (Bounding Region = (163.771mm, 89.046mm, 209.809mm, 97.954mm) (InComponentClass('U_Magnetic-Charger'))
+Processing Rule : Room U_Magnetic-Charger (Bounding Region = (6447.677mil, 3505.748mil, 8260.197mil, 3856.457mil) (InComponentClass('U_Magnetic-Charger'))
 Rule Violations :0
 
-Processing Rule : Room U_SD-Socket (Bounding Region = (60.871mm, 66.246mm, 87.379mm, 89.729mm) (InComponentClass('U_SD-Socket'))
+Processing Rule : Room U_SD-Socket (Bounding Region = (2396.496mil, 2608.11mil, 3440.118mil, 3532.638mil) (InComponentClass('U_SD-Socket'))
 Rule Violations :0
 
-Processing Rule : Room U_Tacile-Buttons (Bounding Region = (171.696mm, 94.144mm, 182.304mm, 140.856mm) (InComponentClass('U_Tacile-Buttons'))
+Processing Rule : Room U_Tacile-Buttons (Bounding Region = (6759.685mil, 3706.473mil, 7177.323mil, 5545.496mil) (InComponentClass('U_Tacile-Buttons'))
 Rule Violations :0
 
-Processing Rule : Room U_SWD (Bounding Region = (87.121mm, 66.25mm, 111.881mm, 88.729mm) (InComponentClass('U_SWD'))
+Processing Rule : Room U_SWD (Bounding Region = (3429.961mil, 2608.268mil, 4404.748mil, 3493.268mil) (InComponentClass('U_SWD'))
 Rule Violations :0
 
-Processing Rule : Room U_Rotary-Encoder (Bounding Region = (186.121mm, 102.521mm, 208.879mm, 123.106mm) (InComponentClass('U_Rotary-Encoder'))
+Processing Rule : Room U_Rotary-Encoder (Bounding Region = (7327.598mil, 4036.26mil, 8223.583mil, 4846.677mil) (InComponentClass('U_Rotary-Encoder'))
 Rule Violations :0
 
-Processing Rule : Room U_TFT-Display (Bounding Region = (59.521mm, 128.288mm, 88mm, 149mm) (InComponentClass('U_TFT-Display'))
+Processing Rule : Room U_TFT-Display (Bounding Region = (2343.347mil, 5050.703mil, 3464.567mil, 5866.142mil) (InComponentClass('U_TFT-Display'))
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=30mm) (Prefered=12.7mm) (All)
+Processing Rule : Height Constraint (Min=0mil) (Max=1181.102mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
