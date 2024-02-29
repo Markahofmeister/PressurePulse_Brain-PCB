@@ -1,14 +1,14 @@
-Output: NC Drill Files
-Type  : NC Drill
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:10:58 AM On 2/29/2024
+
+Output: Generates pick and place files
+Type  : Pick Place
 From  : PCB Document [PressurePulse_Brain-PCB.PcbDoc]
-   Generated File[PressurePulse_Brain-PCB-RoundHoles.TXT]
-   Generated File[PressurePulse_Brain-PCB-SlotHoles.TXT]
-   Generated File[PressurePulse_Brain-PCB-RectHoles.TXT]
-   Generated File[PressurePulse_Brain-PCB.LDP]
-   Generated File[PressurePulse_Brain-PCB.DRR]
+   Generated File[Pick Place for PressurePulse_Brain-PCB.csv]
 
 
-Files Generated   : 5
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:29:40 PM On 2/26/2024
+Finished Output Generation At 5:10:59 AM On 2/29/2024

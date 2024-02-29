@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\marka\Spring-2024\Senior-Design\ece_1896\electrical\PressurePulse_Brain-PCB\PressurePulse_Brain-PCB.PcbDoc
-Date     : 2/26/2024
-Time     : 1:29:06 PM
+Date     : 2/29/2024
+Time     : 5:09:39 AM
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -21,10 +21,8 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=6.693mil) (Max=11.94mil) (Preferred=11.257mil) (InNetClass('RF'))
-   Violation between Width Constraint: Track (1615.532mil,1607.479mil)(1620.649mil,1602.362mil) on Top Sig Actual Width = 8mil, Target Width = 11.024mil
-   Violation between Width Constraint: Track (1620.649mil,1602.362mil)(1622.047mil,1602.362mil) on Top Sig Actual Width = 8mil, Target Width = 11.024mil
-Rule Violations :2
+Processing Rule : Width Constraint (Min=6mil) (Max=11.94mil) (Preferred=11.257mil) (InNetClass('RF'))
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=6mil) (Max=60mil) (Preferred=36mil) (All)
 Rule Violations :0
@@ -102,6 +100,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1181.102mil) (Prefered=500mi
 Rule Violations :0
 
 
-Violations Detected : 2
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
